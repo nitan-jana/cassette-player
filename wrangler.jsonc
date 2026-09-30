@@ -1,5 +1,6 @@
 {
   "name": "cassette-player",
   "compatibility_date": "2026-09-30",
+  "routes": [{ "pattern": "cassette-player.nitanjana.com", "custom_domain": true }],
   "assets": { "directory": "./dist" }
 }
